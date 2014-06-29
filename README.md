@@ -1,4 +1,9 @@
-NEA_base
-========
+Node.js + Express.js + Angular.js Base Template
+===============================================
 
-Node.js + Express.js + Angular.js
+Un template basico que contiene:
+-Nodejs
+-Expressjs
+-Angularjs
+	-ngRoutes
+	-Uso de partials con jade
